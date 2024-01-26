@@ -64,4 +64,4 @@ elif vyber == "4":
     else:
         print("co to děláš")
 elif vyber == "5":
-   
+    
