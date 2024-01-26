@@ -5,6 +5,7 @@ print("zadej 1 pro O obdélníku")
 print("zadej 2 pro S obdélníku")
 print("zadej 3 pro V kvádru")
 print("zadej 4 pro S Kruhu")
+print("zadej 5 pro ukončení programu")
 vyber = input("co chcete počítat")
 
 if vyber == "1":
@@ -62,3 +63,5 @@ elif vyber == "4":
         print(vysledek)
     else:
         print("co to děláš")
+elif vyber == "5":
+   
